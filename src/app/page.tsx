@@ -31,7 +31,6 @@ export default async function HomePage() {
             <img src={image.url} />
           </div>
         ))}
-      }
       </div>
     </main>
   );
